@@ -1,0 +1,11 @@
+F:\all works\learn-dotnet-core\HackerRank Day 0\bin\Debug\netcoreapp2.2\HackerRank Day 0.deps.json
+F:\all works\learn-dotnet-core\HackerRank Day 0\bin\Debug\netcoreapp2.2\HackerRank Day 0.runtimeconfig.json
+F:\all works\learn-dotnet-core\HackerRank Day 0\bin\Debug\netcoreapp2.2\HackerRank Day 0.runtimeconfig.dev.json
+F:\all works\learn-dotnet-core\HackerRank Day 0\bin\Debug\netcoreapp2.2\HackerRank Day 0.dll
+F:\all works\learn-dotnet-core\HackerRank Day 0\bin\Debug\netcoreapp2.2\HackerRank Day 0.pdb
+F:\all works\learn-dotnet-core\HackerRank Day 0\obj\Debug\netcoreapp2.2\HackerRank Day 0.csprojAssemblyReference.cache
+F:\all works\learn-dotnet-core\HackerRank Day 0\obj\Debug\netcoreapp2.2\HackerRank Day 0.csproj.CoreCompileInputs.cache
+F:\all works\learn-dotnet-core\HackerRank Day 0\obj\Debug\netcoreapp2.2\HackerRank Day 0.AssemblyInfoInputs.cache
+F:\all works\learn-dotnet-core\HackerRank Day 0\obj\Debug\netcoreapp2.2\HackerRank Day 0.AssemblyInfo.cs
+F:\all works\learn-dotnet-core\HackerRank Day 0\obj\Debug\netcoreapp2.2\HackerRank Day 0.dll
+F:\all works\learn-dotnet-core\HackerRank Day 0\obj\Debug\netcoreapp2.2\HackerRank Day 0.pdb
