@@ -1,0 +1,11 @@
+F:\all works\trainingDay7\bin\Debug\netcoreapp2.2\trainingDay7.deps.json
+F:\all works\trainingDay7\bin\Debug\netcoreapp2.2\trainingDay7.runtimeconfig.json
+F:\all works\trainingDay7\bin\Debug\netcoreapp2.2\trainingDay7.runtimeconfig.dev.json
+F:\all works\trainingDay7\bin\Debug\netcoreapp2.2\trainingDay7.dll
+F:\all works\trainingDay7\bin\Debug\netcoreapp2.2\trainingDay7.pdb
+F:\all works\trainingDay7\obj\Debug\netcoreapp2.2\trainingDay7.csprojAssemblyReference.cache
+F:\all works\trainingDay7\obj\Debug\netcoreapp2.2\trainingDay7.csproj.CoreCompileInputs.cache
+F:\all works\trainingDay7\obj\Debug\netcoreapp2.2\trainingDay7.AssemblyInfoInputs.cache
+F:\all works\trainingDay7\obj\Debug\netcoreapp2.2\trainingDay7.AssemblyInfo.cs
+F:\all works\trainingDay7\obj\Debug\netcoreapp2.2\trainingDay7.dll
+F:\all works\trainingDay7\obj\Debug\netcoreapp2.2\trainingDay7.pdb
