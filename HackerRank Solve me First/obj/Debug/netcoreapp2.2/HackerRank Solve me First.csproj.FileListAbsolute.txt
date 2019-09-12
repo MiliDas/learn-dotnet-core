@@ -1,0 +1,11 @@
+F:\all works\learn-dotnet-core\HackerRank Solve me First\bin\Debug\netcoreapp2.2\HackerRank Solve me First.deps.json
+F:\all works\learn-dotnet-core\HackerRank Solve me First\bin\Debug\netcoreapp2.2\HackerRank Solve me First.runtimeconfig.json
+F:\all works\learn-dotnet-core\HackerRank Solve me First\bin\Debug\netcoreapp2.2\HackerRank Solve me First.runtimeconfig.dev.json
+F:\all works\learn-dotnet-core\HackerRank Solve me First\bin\Debug\netcoreapp2.2\HackerRank Solve me First.dll
+F:\all works\learn-dotnet-core\HackerRank Solve me First\bin\Debug\netcoreapp2.2\HackerRank Solve me First.pdb
+F:\all works\learn-dotnet-core\HackerRank Solve me First\obj\Debug\netcoreapp2.2\HackerRank Solve me First.csprojAssemblyReference.cache
+F:\all works\learn-dotnet-core\HackerRank Solve me First\obj\Debug\netcoreapp2.2\HackerRank Solve me First.csproj.CoreCompileInputs.cache
+F:\all works\learn-dotnet-core\HackerRank Solve me First\obj\Debug\netcoreapp2.2\HackerRank Solve me First.AssemblyInfoInputs.cache
+F:\all works\learn-dotnet-core\HackerRank Solve me First\obj\Debug\netcoreapp2.2\HackerRank Solve me First.AssemblyInfo.cs
+F:\all works\learn-dotnet-core\HackerRank Solve me First\obj\Debug\netcoreapp2.2\HackerRank Solve me First.dll
+F:\all works\learn-dotnet-core\HackerRank Solve me First\obj\Debug\netcoreapp2.2\HackerRank Solve me First.pdb
