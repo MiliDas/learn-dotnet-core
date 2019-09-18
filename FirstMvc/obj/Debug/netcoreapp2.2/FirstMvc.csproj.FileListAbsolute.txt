@@ -29,3 +29,4 @@ f:\all works\learn-dotnet-core\FirstMvc\obj\Debug\netcoreapp2.2\FirstMvc.dll
 f:\all works\learn-dotnet-core\FirstMvc\obj\Debug\netcoreapp2.2\FirstMvc.pdb
 f:\all works\learn-dotnet-core\FirstMvc\obj\Debug\netcoreapp2.2\FirstMvc.csproj.CopyComplete
 f:\all works\learn-dotnet-core\FirstMvc\obj\Debug\netcoreapp2.2\Razor\Views\Test\About.g.cshtml.cs
+f:\all works\learn-dotnet-core\FirstMvc\obj\Debug\netcoreapp2.2\Razor\Views\Test\Form.g.cshtml.cs

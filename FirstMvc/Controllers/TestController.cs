@@ -15,6 +15,24 @@ namespace FirstMvc.Controllers
             return View();
         }
 
+        public IActionResult Form()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Submit()
+        {
+             return View(new Person
+            {
+                Name = "Name",
+                Gender = "Female",
+                Age = "21",
+                
+            }
+                );
+        }
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

@@ -1,0 +1,4 @@
+F:\all works\learn-dotnet-core\HackerRank Day 6\obj\Debug\netcoreapp2.2\HackerRank Day 6.csprojAssemblyReference.cache
+F:\all works\learn-dotnet-core\HackerRank Day 6\obj\Debug\netcoreapp2.2\HackerRank Day 6.csproj.CoreCompileInputs.cache
+F:\all works\learn-dotnet-core\HackerRank Day 6\obj\Debug\netcoreapp2.2\HackerRank Day 6.AssemblyInfoInputs.cache
+F:\all works\learn-dotnet-core\HackerRank Day 6\obj\Debug\netcoreapp2.2\HackerRank Day 6.AssemblyInfo.cs
