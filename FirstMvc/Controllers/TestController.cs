@@ -23,11 +23,11 @@ namespace FirstMvc.Controllers
         [HttpPost]
         public IActionResult Submit()
         {
-             return View(new Person
+             return View(new Submit
             {
                 Name = "Name",
                 Gender = "Female",
-                Age = "21",
+                Age = 21,
                 
             }
                 );
